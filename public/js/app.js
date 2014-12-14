@@ -44,7 +44,7 @@
             name: "Box Pie"
         }, {
             num: 4,
-            name: "Queue Pie"
+            name: "Schedule Pie"
         }, {
             num: 5,
             name: "Send Pie"
