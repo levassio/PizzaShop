@@ -47,7 +47,7 @@
             name: "Queue Pie"
         }, {
             num: 5,
-            name: "Deliver Pie"
+            name: "Send Pie"
         }];
 
         status.currentStep = 2;
